@@ -9,9 +9,7 @@ This repository contains a comprehensive analysis of homicide data obtained from
 - [Project Overview](#project-overview)
 - [Data Sources](#data-sources)
 - [Repository Structure](#repository-structure)
-- [Methodology](#methodology)
 - [Key Findings](#key-findings)
-- [Usage](#usage)
 - [Future Work](#future-work)
 - [License](#license)
 
@@ -42,6 +40,22 @@ The analysis combines Python-driven data cleaning and exploratory data analysis 
 - **FBI Crime Data Explorer:**  
   Additional contextual data and methodological notes available on the [FBI Crime Data Explorer](https://crime-data-explorer.fr.cloud.gov/).
 
+## Key Findings
+
+- **Firearm Dominance:**  
+  Firearms consistently emerge as the most prevalent weapon in homicide cases, accounting for a substantial portion of overall incidents across the analyzed years.
+
+- **Demographic Disparities:**  
+  The analysis highlights significant differences in victim demographics. Certain racial, ethnic, and gender groups experience disproportionately higher homicide rates.
+
+- **Temporal Fluctuations:**  
+  Homicide rates exhibit notable trends over the 2019–2023 period, with specific years showing significant spikes that may warrant further investigation into social or economic factors.
+
+- **Circumstantial Insights:**  
+  Distinct patterns in homicide circumstances (such as domestic violence, robbery, and gang-related incidents) suggest varied underlying causes and dynamics in different contexts.
+
+- **Justifiable Homicides Comparison:**  
+  Comparative analysis between justifiable homicides by law enforcement and private citizens reveals differences in weapon usage and incident contexts, which may inform discussions on policies and practices.
 ---
 
 ## Repository Structure
